@@ -6,7 +6,7 @@ tree to the taxonomy used by the Open Tree of Life project.
 ## Background
 
 ### Tree of Life Web project
-The [Tree of Life web project](http://tolweb) is a fantastic resource containing a wealth of
+The [Tree of Life web project](http://tolweb.org) is a fantastic resource containing a wealth of
 information about the phylogeny of life on Earth and summaries of many aspects
 of the biology for many clades. The "taxon pages" for the project are written by a
 large community of
